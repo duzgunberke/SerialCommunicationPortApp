@@ -1,0 +1,54 @@
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\bin\Debug\SerialCommunication_ Serial_Port.exe.config
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\bin\Debug\SerialCommunication_ Serial_Port.exe
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\bin\Debug\SerialCommunication_ Serial_Port.pdb
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\obj\Debug\SerialCommunication_ Serial_Port.csprojAssemblyReference.cache
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\obj\Debug\SerialCommunication__Serial_Port.Form1.resources
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\obj\Debug\SerialCommunication__Serial_Port.Properties.Resources.resources
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\obj\Debug\SerialCommunication_ Serial_Port.csproj.GenerateResource.cache
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\obj\Debug\SerialCommunication_ Serial_Port.csproj.CoreCompileInputs.cache
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\obj\Debug\SerialCommunication_ Serial_Port.exe
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\obj\Debug\SerialCommunication_ Serial_Port.pdb
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\obj\Debug\SerialCommunication__Serial_Port.İnfo.resources
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\bin\Debug\MySql.Data.dll
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\bin\Debug\Google.Protobuf.dll
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\bin\Debug\Zstandard.Net.dll
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\bin\Debug\System.Memory.dll
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\bin\Debug\System.Buffers.dll
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\bin\Debug\MySql.Data.xml
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\obj\Debug\SerialCommunication_ Serial_Port.csproj.CopyComplete
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\obj\Debug\SerialCommunication__Serial_Port.Form2.resources
+C:\Users\90507\source\repos\SerialCommunication_ Serial_Port\SerialCommunication_ Serial_Port\obj\Debug\SerialCommunication__Serial_Port.Form3.resources
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\bin\Debug\SerialCommunication_ Serial_Port.exe.config
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\bin\Debug\SerialCommunication_ Serial_Port.exe
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\bin\Debug\SerialCommunication_ Serial_Port.pdb
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\bin\Debug\MySql.Data.dll
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\bin\Debug\Google.Protobuf.dll
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\bin\Debug\Zstandard.Net.dll
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\bin\Debug\System.Memory.dll
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\bin\Debug\System.Buffers.dll
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\bin\Debug\MySql.Data.xml
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\obj\Debug\SerialCommunication_ Serial_Port.csprojAssemblyReference.cache
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\obj\Debug\SerialCommunication__Serial_Port.Form1.resources
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\obj\Debug\SerialCommunication__Serial_Port.Form2.resources
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\obj\Debug\SerialCommunication__Serial_Port.Form3.resources
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\obj\Debug\SerialCommunication__Serial_Port.Properties.Resources.resources
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\obj\Debug\SerialCommunication__Serial_Port.İnfo.resources
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\obj\Debug\SerialCommunication_ Serial_Port.csproj.GenerateResource.cache
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\obj\Debug\SerialCommunication_ Serial_Port.csproj.CoreCompileInputs.cache
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\obj\Debug\SerialCommunication_ Serial_Port.csproj.CopyComplete
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\obj\Debug\SerialCommunication_ Serial_Port.exe
+C:\Users\90507\source\repos\denemeserialport\SerialCommunication_ Serial_Port\obj\Debug\SerialCommunication_ Serial_Port.pdb
